@@ -1,0 +1,8 @@
+[package]
+org = "sachindu"
+name = "jiraconnection"
+version = "0.1.0"
+title = "JiraConnection"
+
+[build-options]
+sticky = true
