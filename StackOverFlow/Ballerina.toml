@@ -1,0 +1,12 @@
+[package]
+org = "sachindu"
+name = "pinecone"
+version = "0.1.0"
+title = "pinecone"
+
+[build-options]
+sticky = true
+[[tool.openapi]]
+id = "StackOverFlow"
+targetModule = "StackOverFlow"
+filePath = "/home/sachindu/Desktop/works/connetors/openapi/pinecone/stackexchange.yaml"

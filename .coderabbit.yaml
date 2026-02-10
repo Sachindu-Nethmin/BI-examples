@@ -1,0 +1,6 @@
+language: en-US
+reviews:
+  high_level_instructions: "Please review all code changes according to the Microsoft Style Guides. Focus on clarity, consistency, and standard coding practices defined by Microsoft."
+  path_instructions:
+    - path: "**"
+      instructions: "Apply Microsoft Style Guides to all files."
